@@ -59,10 +59,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - This game was developed as a project for learning OpenGL and game development in C++.
 - Special thanks to the OpenGL community for providing valuable resources and tutorials.
 
-## Screenshots
-![Main Menu](screenshots/main_menu.png)
-![Gameplay](screenshots/gameplay.png)
-![High Scores](screenshots/high_scores.png)
 
 ## Future Improvements
 - Add more levels with increasing difficulty.
