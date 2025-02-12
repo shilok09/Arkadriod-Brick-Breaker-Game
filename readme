@@ -24,20 +24,20 @@ This is a basic 2D Brick Breaker game implemented in C++ using OpenGL. The game 
 To compile and run the game, you need to have OpenGL and GLUT installed on your system.
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/brick-breaker-game.git
-   cd brick-breaker-game
-   ```
+    ```bash
+    git clone https://github.com/yourusername/brick-breaker-game.git
+    cd brick-breaker-game
+    ```
 
 2. **Compile the game**:
-   ```bash
-   g++ -o brickbreaker main.cpp -lGL -lGLU -lglut
-   ```
+    ```bash
+    g++ -o brickbreaker main.cpp -lGL -lGLU -lglut
+    ```
 
 3. **Run the game**:
-   ```bash
-   ./brickbreaker
-   ```
+    ```bash
+    ./brickbreaker
+    ```
 
 ## Code Structure
 - **main.cpp**: Contains the main game logic, including the `Game` class and its methods.
@@ -59,6 +59,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - This game was developed as a project for learning OpenGL and game development in C++.
 - Special thanks to the OpenGL community for providing valuable resources and tutorials.
 
+## Screenshots
+![Main Menu](screenshots/main_menu.png)
+![Gameplay](screenshots/gameplay.png)
+![High Scores](screenshots/high_scores.png)
+
 ## Future Improvements
 - Add more levels with increasing difficulty.
 - Introduce new power-ups and obstacles.
@@ -70,7 +75,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Issues
 If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository.
-
----
-
-Enjoy the game! 🎮
